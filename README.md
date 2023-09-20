@@ -1,1 +1,1 @@
-USE backup database from dn-backup folder
+Use backup file from db-backup folder
